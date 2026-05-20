@@ -1,0 +1,49 @@
+
+----------- TRACE PARAMETERS ---------
+>Number of Peers:        100
+>Number of Files:        55
+>Number of Transactions: 3500
+>Max. User Connections:  2
+>Bandwidth Period:       1
+>Warm-up Transactions:   0
+>Zipf Constant:          0.400000
+>Pre-Trusted Users:      5
+>Good Behaving Users:    80
+>Purely Malicious Users: 20
+>Feedback Skewing Users: 0
+>Maligned Providers:     0
+>Disguised Malignants:   0
+>Sybil Attackers:        0
+>Smart Trans Gen?:       true
+>Generator Rand Seed:    1561007022463
+>Simulator Rand Seed:    1778859317738
+
+---------- SIMULATOR SPECIFIC --------
+>Simulator used:         EigenTrust (no URL gate)
+>Malicious strategy:     Naive
+
+-------- TRANSACTION OVERVIEW --------
+>Transacts Attempted:    3500
+>Transacts Completed:    3500
+>Transacts Incomplete:   0
+
+-------- INCOMPLETE TRANS SUM --------
+>Transacts Incomplete:   0
+>Reception Declined:     0
+>No Eligible Senders:    0
+
+--------- COMPLETE TRANS SUM ---------
+>Transacts Completed:    3500
+>Valid Transactions:     3381
+>Invalid Transactions:   119
+
+--------- FEEDBACK OVERVIEW ----------
+>Feedbacks Committed:    3500
+>Truthful Feedbacks:     2759
+>Dishonest Feedbacks:    741
+>Sybil-User Feedbacks:   0
+
+--------- EVALUATION METRIC ----------
+>Good User Transacts:    2759
+>Good User Successes:    2752
+>Good User Failures:     7
